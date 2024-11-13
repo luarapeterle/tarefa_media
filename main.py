@@ -1,6 +1,3 @@
-import pip
-import xlsxwriter
-
 
 import numpy as np
 import streamlit as st
